@@ -1,3 +1,12 @@
+/*
+Title: program_1
+Files: main.cpp
+Semester: Spring 2018
+Author: Samuel Mullins
+Email: samuel.s.mullins@gmail.com
+Description: This program creates singularly linked list of integers.
+*/
+
 #include <iostream>
 #include <ctime>
 
