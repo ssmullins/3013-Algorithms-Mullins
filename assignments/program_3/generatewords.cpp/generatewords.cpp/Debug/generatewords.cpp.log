@@ -1,0 +1,5 @@
+﻿  generate_words.cpp
+c:\users\shedw\documents\generatewords.cpp\generatewords.cpp\generate_words.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shedw\documents\generatewords.cpp\generatewords.cpp\generate_words.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shedw\documents\generatewords.cpp\generatewords.cpp\generate_words.cpp(172): warning C4715: 'word_Generator': not all control paths return a value
+  generatewords.cpp.vcxproj -> C:\Users\shedw\Documents\generatewords.cpp\Debug\generatewords.cpp.exe
